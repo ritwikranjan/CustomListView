@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string name="name">name</string>
+    <string name="imageView">ImageView</string>
+    <string name="team">team</string>
+    <string name="delete">Delete</string>
+</resources>
